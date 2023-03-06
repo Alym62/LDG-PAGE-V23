@@ -1,5 +1,4 @@
 <h1 align="center">Landing Page</h1>
-<hr>
 <p align="center">Minha primeira landing page para o curso de CSS da Dio</p>
 <hr>
 <p>Tecnologias</p>
